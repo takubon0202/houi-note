@@ -1,0 +1,11 @@
+{
+  "name": "方位ノート",
+  "short_name": "方位ノート",
+  "description": "基準地点から目的地の方位と距離を確認するアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#365c50",
+  "lang": "ja",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
